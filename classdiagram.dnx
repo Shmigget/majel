@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_0JLZYNs1EeG4WYW39-s0_g" type="Class" name="classdiagram.dnx">
+  <eAnnotations xmi:id="_0JLZYts1EeG4WYW39-s0_g" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_0JLZY9s1EeG4WYW39-s0_g" key="com.ibm.xtools.viz.java.webservice.capability" value="1"/>
+    <details xmi:id="_0JLZZNs1EeG4WYW39-s0_g" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:id="_0MgaMNs1EeG4WYW39-s0_g">
+    <children xmi:id="_0MiPYNs1EeG4WYW39-s0_g" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_0MiPYds1EeG4WYW39-s0_g" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_0MiPYts1EeG4WYW39-s0_g" type="Stereotype"/>
+    <children xmi:id="_0MiPY9s1EeG4WYW39-s0_g" type="Name"/>
+    <children xmi:id="_0Mi2cNs1EeG4WYW39-s0_g" type="Parent"/>
+    <children xmi:id="_0Mi2cds1EeG4WYW39-s0_g" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0Mi2cts1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0MkroNs1EeG4WYW39-s0_g" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0Mkrods1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0Mkrots1EeG4WYW39-s0_g" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0Mkro9s1EeG4WYW39-s0_g"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_0MgaMds1EeG4WYW39-s0_g" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Categorizer%5Bjcu%5Ename=Categorizer.java%5Bjpack%5Ename=org.shmigget.ai.majel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=AIProject%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0MgaMts1EeG4WYW39-s0_g" x="6974" y="951"/>
+  </children>
+  <children xmi:id="_0MkrpNs1EeG4WYW39-s0_g">
+    <children xmi:id="_0MlSsNs1EeG4WYW39-s0_g" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_0MlSsds1EeG4WYW39-s0_g" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_0Ml5wNs1EeG4WYW39-s0_g" type="Stereotype"/>
+    <children xmi:id="_0MnH4Ns1EeG4WYW39-s0_g" type="Name"/>
+    <children xmi:id="_0MnH4ds1EeG4WYW39-s0_g" type="Parent"/>
+    <children xmi:id="_0MnH4ts1EeG4WYW39-s0_g" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0MnH49s1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0Mnu8Ns1EeG4WYW39-s0_g" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0Mnu8ds1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0Mnu8ts1EeG4WYW39-s0_g" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0Mnu89s1EeG4WYW39-s0_g"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_0Mkrpds1EeG4WYW39-s0_g" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Majel%5Bjcu%5Ename=Majel.java%5Bjpack%5Ename=org.shmigget.ai.majel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=AIProject%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Mkrpts1EeG4WYW39-s0_g" x="951" y="951"/>
+  </children>
+  <children xmi:id="_0MoWANs1EeG4WYW39-s0_g">
+    <children xmi:id="_0Mo9ENs1EeG4WYW39-s0_g" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_0Mo9Eds1EeG4WYW39-s0_g" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_0Mo9Ets1EeG4WYW39-s0_g" type="Stereotype"/>
+    <children xmi:id="_0MpkINs1EeG4WYW39-s0_g" type="Kind"/>
+    <children xmi:id="_0MpkIds1EeG4WYW39-s0_g" type="Name"/>
+    <children xmi:id="_0MpkIts1EeG4WYW39-s0_g" type="Parent"/>
+    <children xmi:id="_0MqLMNs1EeG4WYW39-s0_g" type="EnumerationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0MqLMds1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0MqLMts1EeG4WYW39-s0_g" visible="false" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0MqLM9s1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0MqyQNs1EeG4WYW39-s0_g" visible="false" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0MqyQds1EeG4WYW39-s0_g"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_0MoWAds1EeG4WYW39-s0_g" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Enumeration" href="mmi:///#jsrctype%5Ename=InputCategoryEnum%5Bjsrctype%5Ename=Categorizer%5Bjcu%5Ename=Categorizer.java%5Bjpack%5Ename=org.shmigget.ai.majel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=AIProject%5D%5D%5D%5D%5D$uml.Enumeration"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0MoWAts1EeG4WYW39-s0_g" x="6340" y="4755"/>
+  </children>
+  <children xmi:id="_0MqyQts1EeG4WYW39-s0_g">
+    <children xmi:id="_0MrZUNs1EeG4WYW39-s0_g" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_0MrZUds1EeG4WYW39-s0_g" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_0MsAYNs1EeG4WYW39-s0_g" type="Stereotype"/>
+    <children xmi:id="_0MsncNs1EeG4WYW39-s0_g" type="Name"/>
+    <children xmi:id="_0MtOgNs1EeG4WYW39-s0_g" type="Parent"/>
+    <children xmi:id="_0MtOgds1EeG4WYW39-s0_g" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0MtOgts1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0MvqwNs1EeG4WYW39-s0_g" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0Mvqwds1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0Mvqwts1EeG4WYW39-s0_g" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0Mvqw9s1EeG4WYW39-s0_g"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_0MqyQ9s1EeG4WYW39-s0_g" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Teacher%5Bjcu%5Ename=Teacher.java%5Bjpack%5Ename=org.shmigget.ai.majel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=AIProject%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0MqyRNs1EeG4WYW39-s0_g" x="19654" y="951"/>
+  </children>
+  <children xmi:id="_0MwR0Ns1EeG4WYW39-s0_g">
+    <children xmi:id="_0MwR09s1EeG4WYW39-s0_g" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_0MwR1Ns1EeG4WYW39-s0_g" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_0Mw44Ns1EeG4WYW39-s0_g" type="Stereotype"/>
+    <children xmi:id="_0Mw44ds1EeG4WYW39-s0_g" type="Name"/>
+    <children xmi:id="_0Mw44ts1EeG4WYW39-s0_g" type="Parent"/>
+    <children xmi:id="_0Mxf8Ns1EeG4WYW39-s0_g" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0Mxf8ds1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0M0jQNs1EeG4WYW39-s0_g" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0M0jQds1EeG4WYW39-s0_g"/>
+    </children>
+    <children xmi:id="_0M0jQts1EeG4WYW39-s0_g" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_0M0jQ9s1EeG4WYW39-s0_g"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_0MwR0ds1EeG4WYW39-s0_g" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Servicer%5Bjcu%5Ename=Servicer.java%5Bjpack%5Ename=org.shmigget.ai.majel%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=AIProject%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0MwR0ts1EeG4WYW39-s0_g" x="11412" y="951"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_0JLZYds1EeG4WYW39-s0_g"/>
+  <element xsi:nil="true"/>
+  <edges xmi:id="_0YnjkNs1EeG4WYW39-s0_g" type="OwnedElement" source="_0MgaMNs1EeG4WYW39-s0_g" target="_0MoWANs1EeG4WYW39-s0_g">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_0Ynjkds1EeG4WYW39-s0_g" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0Ynjkts1EeG4WYW39-s0_g" points="[0, 0, 0, -11272]$[0, 11272, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0cL08Ns1EeG4WYW39-s0_g" id="(0.4998713,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0cL08ds1EeG4WYW39-s0_g" id="(0.49989608,0.0)"/>
+  </edges>
+</notation:Diagram>

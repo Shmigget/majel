@@ -1,0 +1,183 @@
+DefinitionCategory "Blah".
+DefinitionCategory "Bereft".
+DefinitionCategory "Consultate".
+DefinitionCategory "Zebra".
+MusicCategory Please play "Paul Simon."
+MusicCategory Play "Every little think she does is magic."
+MusicCategory Play "Boy's don't cry" please.
+MusicCategory Play "Circles".
+MusicCategory Play "Circles" please.
+MusicCategory Please play "Circles".
+MusicCategory Play "The Rhythm of the Saints".
+MusicCategory Please play "The Rhythm of the Saints".
+MusicCategory Can you play "The Rhythm of the Saints"?
+MusicCategory Please pause.
+MusicCategory Pause please.
+MusicCategory Pause music.
+MusicCategory Please pause music.
+MusicCategory Pause music please.
+DefinitionCategory Please define "flagitious".
+DefinitionCategory What does "unavailing" mean?
+DefinitionCategory What does "advocate" mean?
+DefinitionCategory What does "abolitionist" mean?
+DefinitionCategory What does the word "assuage" mean?
+DefinitionCategory What is the definition of "assuage"?
+DefinitionCategory What's the meaning of "blah"?
+DefinitionCategory Please tell me the the definition of the word "assuage".
+DefinitionCategory What's "assuage"?
+DescriptionCategory Please describe the "Large Hadron Collider".
+DescriptionCategory Describe "Fort Knox".
+DescriptionCategory Please describe what a "waterspout" is.
+DescriptionCategory What's the complete description of a "waterspout"?
+DescriptionCategory What does Wikipedia have to say about a "xoloitzcuintli"?
+DescriptionCategory Please tell me what Wikipedia says about an "ocelot".
+DescriptionCategory Please tell me about "laryngospasm" in detail.
+DescriptionCategory Give me detail about "radiation".
+DescriptionCategory Give me description of "radiation".
+DescriptionCategory What's the most you can tell me about "ocelot"?
+MusicCorrectionCategory No, I wanted music.
+MusicCorrectionCategory Wrong, I wanted music.
+MusicCorrectionCategory Incorrect, I wanted you to play a song.
+MusicCorrectionCategory Negative, I wanted you to play a song.
+MusicCorrectionCategory Not at all, I wanted you to play a song.
+DefinitionCorrectionCategory No.
+DefinitionCorrectionCategory Incorrect, I wanted a definition.
+DefinitionCorrectionCategory Wrong, give me the definition of that word.
+DefinitionCorrectionCategory No, I wanted a definition.
+DefinitionCorrectionCategory No, I want a definition.
+DefinitionCorrectionCategory Negative, I wanted the meaning of that word.
+DefinitionCorrectionCategory Not at all, please define that word.
+DescriptionCorrectionCategory No, I want a description.
+DescriptionCorrectionCategory No, I want a description of that.
+DescriptionCorrectionCategory No, I wanted a description.
+DescriptionCorrectionCategory No, I wanted a description of that.
+DescriptionCorrectionCategory No, I want an encyclopedic description.
+DescriptionCorrectionCategory Wrong, I want Wikipedia.
+DescriptionCorrectionCategory Incorrect, please give me more detail.
+DescriptionCorrectionCategory Negative, give me more.
+DescriptionCorrectionCategory That's not what I meant, so give me a description.
+DescriptionCorrectionCategory No, give me more about this.
+DefinitionCorrectionCategory No, I wanted a definition of the word "blah".
+MusicCategory Please play "Nine Inch Nails".
+DefinitionCategory "ocelot"
+DefinitionCategory "Wyvern"
+MusicCategory Please play "Paul Simon".
+DescriptionCategory Give me a description of a "wyvern".
+DescriptionCategory Can you describe a "cat"?
+DefinitionCategory Can you define a "cat"?
+DefinitionCategory Can you define a "cat"?
+DefinitionCorrectionCategory No, I wanted a definition of that word.
+DefinitionCorrectionCategory nNo, I wanted a definition.
+MusicCategory Please pause the music.
+MusicCategory Pause please.
+MusicCategory Pause.
+DefinitionCategory "Pause".
+DefinitionCategoryDescriptionCategoryDescriptionCategoryDescriptionCategoryDescriptionCategoryDefinitionCorrectionCategory No, I wanted a definition of that word.
+DefinitionCategory :"Blah".
+DefinitionCategory "Octopus".
+DefinitionCategory "Octopus"
+DefinitionCategory "octopus"
+DefinitionCategory "octopus"
+DefinitionCategory :"octopus"
+DefinitionCategory "octopus"
+DefinitionCategory What does "bird" mean?
+DescriptionCategory Tell me about "owls".
+DescriptionCategory Tell me about "owl".
+DescriptionCategory What can you tell me about "dogs"?
+DescriptionCategory "What can you tell me about "owls"?
+DescriptionCategory Tell me about "owls".
+DescriptionCategory Tell me about "owls".
+DescriptionCategory Tell me about "owls".
+DescriptionCategory Tell me about "owls".
+DescriptionCategory Tell me about "owls".
+DescriptionCategory Tell me about "dogs".
+DescriptionCategory Tell me about "dogs".
+DescriptionCategory Please describe the "Large Hadron Collider".
+MusicCategory "Please play "They Might Be Giants".
+MusicCategory Please play "They Might Be Giants".
+MusicCategory Play "They Might be giants".
+MusicCategory Play "They Might be giants".
+DefinitionCategory [matches(
+MusicCategory Please play "they might be giants".
+MusicCategory Please play "they might be giants".
+MusicCategory Please play "they might be giants".
+MusicCategory Please play "They might be giants".
+MusicCategory Please play "they might be giants".
+MusicCategory Please play "they might be giants".
+MusicCategory Please play "they might be giants".
+MusicCategory Please play "they might be giants".
+MusicCategory Please play 'abbey road'.
+MusicCategory Please play ''.
+MusicCategory Please play "abbey ROad".
+MusicCategory Please play "Abbey Road".
+MusicCategory Please play "rome".
+MusicCategory Please play "particle man".
+MusicCategory Please play "blah".
+MusicCategory Please play "Particle Man".
+DescriptionCategory Please tell me all about the "ultimate answer to the ultimate question of life, the universe, and everything".
+DescriptionCategory Please tell me all about the "ultimate answer to the ultimate question of life, the universe, and everything".
+DefinitionCategory What's the definition of "racquetball"?
+DescriptionCategory Please describe "racquetball".
+DescriptionCategory Please describe "squash".
+DescriptionCategory Please describe "squash".
+DescriptionCategory Please describe "squash".
+DescriptionCategory Please describe "Squash (2002 film)".
+DefinitionCategory Please define "squash".
+DescriptionCategory Please describe "squash".
+DefinitionCategory "Squash (sport)"
+DescriptionCategory Please describe "squash".
+DefinitionCategory "Squash (sport)"
+DescriptionCategory Please describe "squash".
+DescriptionCategory Please describe "squash".
+DefinitionCategory "Squash (plant)"
+DescriptionCategory Please describe "squash".
+DescriptionCategory "Squash (sport)"
+DescriptionCategory Please describe "squash".
+DescriptionCategory "Squash (sport)"
+DefinitionCategory Please define "squash".
+DefinitionCategory "cat"
+DefinitionCategoryy i want a description.
+DefinitionCategoryDefinitionCorrectionCategory No, I wanted a definition.
+MusicCategory Please play music by "Paul Simon".
+DefinitionCategory What does "flagitious" mean?
+DescriptionCategory What can Wikipedia tell me about a "waterspout"?
+DefinitionCategory "cat"
+MusicCategory Can you play "flood"?
+MusicCategory Can you play "The Dream of the Blue Turtles"?
+MusicCategory Please play "No Shelter".
+MusicCategory Please play "some song I don't own".
+MusicCategory Play "unknown song".
+MusicCategory Please pause the music.
+MusicCategory Do me a favor and pause the music.
+DefinitionCategory Do me a solid and tell me what you know about "dogs".
+DefinitionCategoryDefinitionCorrectionCategory No, I wanted a definition.
+DefinitionCategory "dogs"
+DefinitionCategory "cats"
+DefinitionCategory "owls"
+DefinitionCategory "waterspout"
+DescriptionCategory Please describe "owls".
+DescriptionCategory Tell me what you know about "dog".
+DefinitionCategory Tell me what you know about "dog".
+DefinitionCategoryDefinitionCorrectionCategory No, I wanted a definition.
+DefinitionCategory Tell me what you know about "nuclear fusion".
+MusicCategoryDefinitionCorrectionCategory No, that's not what I want.
+DescriptionCategory Tell me about "cosmology".
+MusicCategory Please play music by "Paul Simon".
+MusicCategory Please play music by "paul simon".
+DescriptionCategory Tell me all about "cosmology".
+DescriptionCategory Please tell me all about "cosmology".
+DefinitionCategory What is a "waterspout"?
+DefinitionCategory Please define "nuclear fusion".
+DescriptionCategory Tell me all about "The Large Hadron Collider".
+DescriptionCategory What does Wikipedia have to say about "owls"?
+DescriptionCategory Please describe "squash".
+DescriptionCategory "Squash tennis"
+DefinitionCategory Please define "ocelot".
+DescriptionCategory Please tell me all you know about "squash".
+DescriptionCategory "Squash tennis"
+DefinitionCategory "cat"
+MusicCategory Please play "paul simon".
+MusicCategory Do me a solid and play "The Dream of the blue turtles".
+MusicCategory No, I wanted music.
+MusicCorrectionCategory NI wanted you to play music.
+DescriptionCategory What can you tell me about "owls"?
