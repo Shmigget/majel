@@ -181,3 +181,20 @@ MusicCategory Do me a solid and play "The Dream of the blue turtles".
 MusicCategory No, I wanted music.
 MusicCorrectionCategory NI wanted you to play music.
 DescriptionCategory What can you tell me about "owls"?
+DefinitionCategory What is an "ocelot"?
+DefinitionCategory What's an "ocelot"?
+DefinitionCategory What's an "ocelot"?
+DefinitionCategory What's an "ocelot"?
+DefinitionCategory What's an "ocelot"?
+DefinitionCategory What's an "ocelot"?
+DefinitionCategory "ocelot"?
+DescriptionCategory describe "ocelot"
+DescriptionCategory describe "ocelot"
+DefinitionCategory "ocelot"
+DefinitionCategory "ocelot"
+DefinitionCategory "ocelot"
+DefinitionCategory "ocelot"
+DefinitionCategory "ocelot"
+DefinitionCategory "ocelot"
+DefinitionCategory "ocelot"
+DefinitionCategory "ocelot"
